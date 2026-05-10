@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Dr. Priya Sharma",
+    "specialist": "Endocrinologist",
+    "hospital": "AIIMS Delhi",
+    "experience": "14 years",
+    "phone": "+91-98100-11111",
+    "rating": 4.9,
+    "fee": "₹800",
+    "mode": "Video & In-person",
+    "timings": "Mon–Sat: 10 AM–2 PM"
+  },
+  {
+    "name": "Dr. Arjun Kumar",
+    "specialist": "Haematologist",
+    "hospital": "Fortis Hospital, Delhi",
+    "experience": "9 years",
+    "phone": "+91-98100-22222",
+    "rating": 4.7,
+    "fee": "₹600",
+    "mode": "In-person",
+    "timings": "Tue–Sun: 11 AM–4 PM"
+  },
+  {
+    "name": "Dr. Meera Reddy",
+    "specialist": "Cardiologist",
+    "hospital": "Apollo Hospital, Delhi",
+    "experience": "18 years",
+    "phone": "+91-98100-33333",
+    "rating": 4.9,
+    "fee": "₹1200",
+    "mode": "Video & In-person",
+    "timings": "Mon–Fri: 9 AM–1 PM"
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "specialist": "Neurologist",
+    "hospital": "Max Healthcare, Saket",
+    "experience": "20 years",
+    "phone": "+91-98100-44444",
+    "rating": 4.8,
+    "fee": "₹1000",
+    "mode": "In-person",
+    "timings": "Mon–Sat: 3 PM–7 PM"
+  },
+  {
+    "name": "Dr. Kavitha Nair",
+    "specialist": "Dermatologist",
+    "hospital": "Skin & You Clinic, GK",
+    "experience": "8 years",
+    "phone": "+91-98100-55555",
+    "rating": 4.6,
+    "fee": "₹500",
+    "mode": "Video & In-person",
+    "timings": "Mon–Sat: 10 AM–6 PM"
+  },
+  {
+    "name": "Dr. Rohan Singh",
+    "specialist": "Orthopedic Surgeon",
+    "hospital": "Medanta Medicity, Gurugram",
+    "experience": "12 years",
+    "phone": "+91-98100-66666",
+    "rating": 4.7,
+    "fee": "₹900",
+    "mode": "In-person",
+    "timings": "Tue–Sun: 8 AM–12 PM"
+  },
+  {
+    "name": "Dr. Sneha Iyer",
+    "specialist": "Pediatrician",
+    "hospital": "Rainbow Children's Hospital",
+    "experience": "10 years",
+    "phone": "+91-98100-77777",
+    "rating": 4.9,
+    "fee": "₹600",
+    "mode": "Video & In-person",
+    "timings": "Mon–Sat: 10 AM–5 PM"
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialist": "Oncologist",
+    "hospital": "Rajiv Gandhi Cancer Institute",
+    "experience": "16 years",
+    "phone": "+91-98100-88888",
+    "rating": 4.8,
+    "fee": "₹1500",
+    "mode": "In-person",
+    "timings": "Mon–Fri: 9 AM–1 PM"
+  }
+]
